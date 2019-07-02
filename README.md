@@ -1,6 +1,7 @@
 # Lab36 - Redux Assignment 1 - Connecting to Store
-
 Connects to the store
+
+[Assignment Part 2](https://github.com/401-advanced-javascript-cdk/lab36-state-reducers/blob/reducers/README.md)
 
 ### Author: Chris Kozlowski
 
