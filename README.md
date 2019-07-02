@@ -6,8 +6,8 @@ Connects to the store
 
 ### Links and Resources
 
-- [GitHub PR]( --- )
-- [Netlify Deployment]( --- )
+- [GitHub PR](https://github.com/401-advanced-javascript-cdk/lab36-app-state-connect/pull/1)
+- [Netlify Deployment](https://compassionate-visvesvaraya-2873aa.netlify.com)
 
 ### Modules
 
@@ -37,4 +37,4 @@ Creates a log on any action.
 
 #### Operation
 
-Go to the deployment [here]( --- ).  Clicking on the text will activate the action and change the text into a random number, which originates from the store's state.
+Go to the deployment [here](https://compassionate-visvesvaraya-2873aa.netlify.com).  Clicking on the text will activate the action and change the text into a random number, which originates from the store's state.
